@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: ldrhierarchicalrecords
+Version: 1.0.0
+Summary: An application providing access to the ldr hierarchical records backend system
+Home-page: UNKNOWN
+Author: Tyler Danstrom
+Author-email: ['tdanstriom@uchicago.edu']
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: uchicago,repository,content retrieval
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: Unix
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
